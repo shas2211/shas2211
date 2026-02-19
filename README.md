@@ -6,7 +6,6 @@
 🔭 Currently:  
 - Leading **Project VULCAN** – a university-level **self-driving EV car** (sensor fusion, OpenCV, deep learning).  
 - Developing **POTECH** – an **EEG-based brain-computer interface** with 85% accuracy for mental health monitoring & home automation.  
-- Building **KANVA (Startup)** – 90% backend complete, awarded **₹20L Google Cloud credits** for innovation.  
 
 🎯 Interests:  
 - Machine Learning, Deep Learning, Computer Vision, IoT  
